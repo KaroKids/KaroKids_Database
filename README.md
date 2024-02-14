@@ -1,1 +1,1 @@
-![Model Database.](/assets/images/BD Karo Kids.png)
+![Model Database.](/assets/images/BDKaroKids.png)
